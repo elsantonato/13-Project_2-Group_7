@@ -1,1 +1,2 @@
-# Group_7-Project_2
+# Project-2
+Data Analytics Boot Camp Group Project 2
