@@ -36,3 +36,6 @@ The ETL process is composed of Extract, Transform, and Load subprocesses. Breakd
 - WangDian: User vs. Critic Score for Top 10 Movies for 
     * Top 10 Movies where users like the movie more than the critics
     * Top 10 Movies where critics like the movie more than the users
+    
+### Analysis
+Please see [FinalProjectReport.docx](./FinalProjectReport.docx)
