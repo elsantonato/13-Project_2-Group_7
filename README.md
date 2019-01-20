@@ -29,7 +29,7 @@ The ETL process is composed of Extract, Transform, and Load subprocesses. Breakd
 * Minna: Final cleaning and merging into one table using Pandas
 
 #### Load
-* Minna: Load into MongoDB with tables from each website as well as a merged table
+* Minna: Load into MongoDB the compiled tables from each website as well as a composite table containing all data
 
 #### Plots
 - Lisa: Profit by Year for Top 100 Grossing and other related analyses
