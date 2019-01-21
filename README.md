@@ -10,8 +10,7 @@ The objective of this project is to extract data from multiple sources of online
 ### Research Questions
 * What are the top grossing films per week? 
 * What are the top 100 grossing films of all time?
-* What are the rankings of these 100 films on Metacritic.com, IMDB.com, and RottenTomatoes.com?
-* How do the film rankings differ between websites? 
+* What are the ratings of these top 100 grossing films on Metacritic.com, IMDB.com, and RottenTomatoes.com?
 * What does the comparison between critic scores and user scores look like?
  
 ### Breakdown of Roles and Tasks
