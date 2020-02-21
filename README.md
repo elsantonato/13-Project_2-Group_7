@@ -1,4 +1,4 @@
-# Project-2
+# Project-2: The Numbers
 Data Analytics Boot Camp, Group Project 2: ETL (Extract Transform Load)
 
 ## Group 7 Movies Database 
