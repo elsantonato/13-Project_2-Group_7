@@ -1,17 +1,18 @@
 # Project-2
-Data Analytics Boot Camp Group Project 2: ETL (Extract Transform Load)
+Data Analytics Boot Camp, Group Project 2: ETL (Extract Transform Load)
 
 ## Group 7 Movies Database 
 Members: Lisa Santonato, Minna Wu, Dian Wang, Suchitra Sharma
  
 ### Abstract
-The objective of this project is to extract data from multiple sources of online movie ratings and compile them into a central database. Using this database, one can conveniently compare user and critic ratings across multiple sources (i.e. IMDB, RottenTomatoes, and Metacritic). Our process involves extracting gross earnings, ratings, and other movie details from our sources, transforming it into a format for merging, and then loading it to MySQL workbench. The project aims to answer several possible questions as outlined below.
+The project’s objective was to compare film box office revenue with user and critic ratings.  To conduct this comparative research, data was first extracted from multiple sources and then compiled into a central database. We extracted gross earnings from the-numbers.com, determining which films were the top-grossing releases for that week, noting the producing companies and distributors behind them. We then extracted user and critic ratings for these top films across multiple sources: IMDB.com, RottenTomatoes.com, and Metacritic.com. The ratings information was then triangulated together with the box office revenue data to draw comparative inferences, asking whether any correlation can be drawn between box office revenue and audience reviews.  
 
 ### Research Questions
 * What are the top grossing films per week? 
 * What are the top 100 grossing films of all time?
 * What are the ratings of these top 100 grossing films on Metacritic.com, IMDB.com, and RottenTomatoes.com?
 * What does the comparison between critic scores and user scores look like?
+* What correlations, if any, can be drawn between critic and user scores, and box office revenue? 
  
 ### Breakdown of Roles and Tasks
 The ETL process is composed of Extract, Transform, and Load subprocesses. Breakdown of roles and tasks are detailed below under each subprocess.
