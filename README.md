@@ -5,7 +5,10 @@ Data Analytics Boot Camp, Group Project 2: ETL (Extract Transform Load)
 Members: Lisa Santonato, Minna Wu, Dian Wang, Suchitra Sharma
  
 ### Abstract
-The project’s objective was to compare film box office revenue with user and critic ratings.  To conduct this comparative research, data was first extracted from multiple sources and then compiled into a central database. We extracted gross earnings from the-numbers.com, determining which films were the top-grossing releases for that week, noting the producing companies and distributors behind them. We then extracted user and critic ratings for these top films across multiple sources: IMDB.com, RottenTomatoes.com, and Metacritic.com. The ratings information was then triangulated together with the box office revenue data to draw comparative inferences, asking whether any correlation can be drawn between box office revenue and audience reviews.  
+The project’s objective was to compare film box office revenue with user and critic ratings.  To conduct this comparative research, data was first extracted from multiple sources and then compiled into a central database. We extracted gross earnings from the-numbers.com, determining which films were the top-grossing releases for that week, noting the producing companies and distributors behind them. We then extracted user and critic ratings for the top 100 films of all time, scraping data across multiple sources to illustrate the comparison between critic and user scores. 
+
+### Next steps: 
+The ratings and revenue data can be triangulated together to draw comparative inferences to identify whether any correlations can be drawn between box office revenue and audience scores.  
 
 ### Research Questions
 * What are the top grossing films per week? 
